@@ -372,7 +372,7 @@ if(mainMenu){
     gb.display.setCursor(25, 30);
     gb.display.print("u succ");
     gb.display.setCursor(0, 50);
-    gb.display.print("Press 'menu' to RUN!");
+    gb.display.print("Press 'menu' to RIDE!");
     if(gb.buttons.pressed(BUTTON_MENU)){
       carSpeed = 0;
       x = 36;
